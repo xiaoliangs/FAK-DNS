@@ -67,7 +67,7 @@ dns:
 
 ## ✏️ 自定义配置
 
-1. Fork 本仓库
+1. Fork 本仓库 
 2. 修改 settings/variables/actions Repository variables 中的 `CN_DNS` 与 `THE_DNS`，每行填写一个 DNS（DoH/DoT/QUIC/IP均可， `CN_DNS`填写您喜欢的国内DNS提供商，`THE_DNS`填写您信任的海外DNS提供商
 3. 通过 Github Actions，生成你专属的规则文件
 
