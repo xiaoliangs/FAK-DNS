@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]https://223.5.5.5/dns-query
 [/gsp5-cn.ls.apple.com/]https://223.5.5.5/dns-query
 [/gsp85-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
+[/gspe11-2-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://223.5.5.5/dns-query
 [/gspe19-2-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
 [/gspe19-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query
